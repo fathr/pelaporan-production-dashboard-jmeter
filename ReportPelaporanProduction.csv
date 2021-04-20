@@ -1,0 +1,701 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1618845946862,1674,api/login,200,OK,Thread Group 1-1,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,1674,0,1562
+1618845947629,892,api/login,200,OK,Thread Group 1-2,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,888,0,795
+1618845948569,18,api/areas/district-city,200,OK,Thread Group 1-1,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618845948571,18,api/areas/district-city,200,OK,Thread Group 1-2,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618845948590,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-2,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618845948590,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-1,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618845948609,19,api/areas/village/32.17.09,200,OK,Thread Group 1-2,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,19,0,0
+1618845948612,20,api/areas/village/32.17.09,200,OK,Thread Group 1-1,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,20,0,0
+1618845948633,173,api/areas/hospital,200,OK,Thread Group 1-1,text,true,,183448,617,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,26,0,0
+1618845948629,182,api/areas/hospital,200,OK,Thread Group 1-2,text,true,,183448,617,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,28,0,0
+1618845948807,28,api/country,200,OK,Thread Group 1-1,text,true,,8954,596,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,26,0,0
+1618845946614,1931,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-1,,true,,198548,3565,3,3,null,1782,277,1562
+1618845948680,513,api/login,200,OK,Thread Group 1-3,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,513,0,83
+1618845948812,400,api/country,200,OK,Thread Group 1-2,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,395,0,0
+1618845947627,1529,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-2,,true,,198548,3565,2,2,null,1366,57,795
+1618845949195,19,api/areas/district-city,200,OK,Thread Group 1-3,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618845949215,81,api/areas/sub-district/32.17,200,OK,Thread Group 1-3,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,81,0,0
+1618845949297,15,api/areas/village/32.17.09,200,OK,Thread Group 1-3,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845949313,206,api/areas/hospital,200,OK,Thread Group 1-3,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,85,0,0
+1618845949519,18,api/country,200,OK,Thread Group 1-3,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618845948673,852,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-3,,true,,198548,3565,1,1,null,729,13,83
+1618845949632,138,api/login,200,OK,Thread Group 1-4,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,138,0,55
+1618845949771,122,api/areas/district-city,200,OK,Thread Group 1-4,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,121,0,0
+1618845949893,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-4,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618845949909,88,api/areas/village/32.17.09,200,OK,Thread Group 1-4,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,88,0,0
+1618845949998,162,api/areas/hospital,200,OK,Thread Group 1-4,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,22,0,0
+1618845950160,33,api/country,200,OK,Thread Group 1-4,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,31,0,0
+1618845949631,559,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-4,,true,,198548,3565,1,1,null,416,3,55
+1618845950608,181,api/login,200,OK,Thread Group 1-5,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,181,0,53
+1618845950790,16,api/areas/district-city,200,OK,Thread Group 1-5,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845950806,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-5,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618845950824,16,api/areas/village/32.17.09,200,OK,Thread Group 1-5,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845950841,309,api/areas/hospital,200,OK,Thread Group 1-5,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618845951151,30,api/country,200,OK,Thread Group 1-5,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,29,0,0
+1618845950607,569,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-5,,true,,198548,3565,1,1,null,278,6,53
+1618845951609,198,api/login,200,OK,Thread Group 1-6,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,198,0,55
+1618845951811,30,api/areas/district-city,200,OK,Thread Group 1-6,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,30,0,0
+1618845951842,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-6,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618845951860,18,api/areas/village/32.17.09,200,OK,Thread Group 1-6,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845951878,197,api/areas/hospital,200,OK,Thread Group 1-6,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,31,0,0
+1618845952076,21,api/country,200,OK,Thread Group 1-6,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,18,0,0
+1618845951608,481,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-6,,true,,198548,3565,1,1,null,312,5,55
+1618845952611,233,api/login,200,OK,Thread Group 1-7,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,233,0,71
+1618845952846,269,api/areas/district-city,200,OK,Thread Group 1-7,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,269,0,0
+1618845953116,30,api/areas/sub-district/32.17,200,OK,Thread Group 1-7,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,30,0,0
+1618845953147,20,api/areas/village/32.17.09,200,OK,Thread Group 1-7,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,20,0,0
+1618845953168,290,api/areas/hospital,200,OK,Thread Group 1-7,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,43,0,0
+1618845953459,28,api/country,200,OK,Thread Group 1-7,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,25,0,0
+1618845952610,870,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-7,,true,,198548,3565,1,1,null,620,7,71
+1618845953611,200,api/login,200,OK,Thread Group 1-8,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,200,0,63
+1618845953812,41,api/areas/district-city,200,OK,Thread Group 1-8,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,41,0,0
+1618845953854,40,api/areas/sub-district/32.17,200,OK,Thread Group 1-8,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,36,0,0
+1618845953895,52,api/areas/village/32.17.09,200,OK,Thread Group 1-8,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,51,0,0
+1618845953947,273,api/areas/hospital,200,OK,Thread Group 1-8,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,55,0,0
+1618845954221,42,api/country,200,OK,Thread Group 1-8,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,40,0,0
+1618845953610,648,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-8,,true,,198548,3565,1,1,null,423,5,63
+1618845954612,202,api/login,200,OK,Thread Group 1-9,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,202,0,72
+1618845954815,34,api/areas/district-city,200,OK,Thread Group 1-9,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,34,0,0
+1618845954850,277,api/areas/sub-district/32.17,200,OK,Thread Group 1-9,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,277,0,0
+1618845955128,28,api/areas/village/32.17.09,200,OK,Thread Group 1-9,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618845955157,220,api/areas/hospital,200,OK,Thread Group 1-9,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,44,0,0
+1618845955377,36,api/country,200,OK,Thread Group 1-9,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,34,0,0
+1618845954611,797,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-9,,true,,198548,3565,1,1,null,619,6,72
+1618845955611,197,api/login,200,OK,Thread Group 1-10,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,197,0,52
+1618845955809,33,api/areas/district-city,200,OK,Thread Group 1-10,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,33,0,0
+1618845955842,22,api/areas/sub-district/32.17,200,OK,Thread Group 1-10,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,22,0,0
+1618845955864,25,api/areas/village/32.17.09,200,OK,Thread Group 1-10,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,25,0,0
+1618845955889,250,api/areas/hospital,200,OK,Thread Group 1-10,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,35,0,0
+1618845956139,41,api/country,200,OK,Thread Group 1-10,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,41,0,0
+1618845955610,568,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-10,,true,,198548,3565,1,1,null,353,3,52
+1618845956614,196,api/login,200,OK,Thread Group 1-11,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,196,0,65
+1618845956811,61,api/areas/district-city,200,OK,Thread Group 1-11,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,61,0,0
+1618845956873,34,api/areas/sub-district/32.17,200,OK,Thread Group 1-11,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,34,0,0
+1618845956908,18,api/areas/village/32.17.09,200,OK,Thread Group 1-11,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845956927,553,api/areas/hospital,200,OK,Thread Group 1-11,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,17,0,0
+1618845957481,18,api/country,200,OK,Thread Group 1-11,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845956613,880,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-11,,true,,198548,3565,1,1,null,342,7,65
+1618845957596,140,api/login,200,OK,Thread Group 1-12,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,140,0,52
+1618845957737,17,api/areas/district-city,200,OK,Thread Group 1-12,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618845957754,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-12,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618845957771,16,api/areas/village/32.17.09,200,OK,Thread Group 1-12,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845957788,144,api/areas/hospital,200,OK,Thread Group 1-12,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618845957932,20,api/country,200,OK,Thread Group 1-12,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618845957595,353,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-12,,true,,198548,3565,1,1,null,228,4,52
+1618845958610,121,api/login,200,OK,Thread Group 1-13,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,121,0,40
+1618845958732,17,api/areas/district-city,200,OK,Thread Group 1-13,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618845958750,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-13,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618845958765,14,api/areas/village/32.17.09,200,OK,Thread Group 1-13,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618845958780,134,api/areas/hospital,200,OK,Thread Group 1-13,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618845958915,18,api/country,200,OK,Thread Group 1-13,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845958609,319,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-13,,true,,198548,3565,1,1,null,202,5,40
+1618845959610,219,api/login,200,OK,Thread Group 1-14,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,219,0,85
+1618845959829,16,api/areas/district-city,200,OK,Thread Group 1-14,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845959846,24,api/areas/sub-district/32.17,200,OK,Thread Group 1-14,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,24,0,0
+1618845959870,16,api/areas/village/32.17.09,200,OK,Thread Group 1-14,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845959887,209,api/areas/hospital,200,OK,Thread Group 1-14,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,31,0,0
+1618845960099,20,api/country,200,OK,Thread Group 1-14,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618845959609,504,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-14,,true,,198548,3565,1,1,null,325,7,85
+1618845960611,197,api/login,200,OK,Thread Group 1-15,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,197,0,61
+1618845960808,94,api/areas/district-city,200,OK,Thread Group 1-15,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,94,0,0
+1618845960902,23,api/areas/sub-district/32.17,200,OK,Thread Group 1-15,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,23,0,0
+1618845960926,18,api/areas/village/32.17.09,200,OK,Thread Group 1-15,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845960944,275,api/areas/hospital,200,OK,Thread Group 1-15,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618845961220,24,api/country,200,OK,Thread Group 1-15,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618845960610,631,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-15,,true,,198548,3565,1,1,null,374,4,61
+1618845961611,147,api/login,200,OK,Thread Group 1-16,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,147,0,57
+1618845961759,20,api/areas/district-city,200,OK,Thread Group 1-16,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,20,0,0
+1618845961780,44,api/areas/sub-district/32.17,200,OK,Thread Group 1-16,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,44,0,0
+1618845961824,15,api/areas/village/32.17.09,200,OK,Thread Group 1-16,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845961840,146,api/areas/hospital,200,OK,Thread Group 1-16,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618845961987,20,api/country,200,OK,Thread Group 1-16,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618845961610,392,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-16,,true,,198548,3565,1,1,null,269,6,57
+1618845962658,180,api/login,200,OK,Thread Group 1-17,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,180,0,59
+1618845962839,20,api/areas/district-city,200,OK,Thread Group 1-17,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,20,0,0
+1618845962859,103,api/areas/sub-district/32.17,200,OK,Thread Group 1-17,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,103,0,0
+1618845962963,32,api/areas/village/32.17.09,200,OK,Thread Group 1-17,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,32,0,0
+1618845962995,294,api/areas/hospital,200,OK,Thread Group 1-17,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618845963290,30,api/country,200,OK,Thread Group 1-17,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,27,0,0
+1618845962657,659,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-17,,true,,198548,3565,1,1,null,385,4,59
+1618845963644,295,api/login,200,OK,Thread Group 1-18,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,295,0,125
+1618845963939,24,api/areas/district-city,200,OK,Thread Group 1-18,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,24,0,0
+1618845963963,22,api/areas/sub-district/32.17,200,OK,Thread Group 1-18,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,22,0,0
+1618845963986,19,api/areas/village/32.17.09,200,OK,Thread Group 1-18,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,19,0,0
+1618845964006,355,api/areas/hospital,200,OK,Thread Group 1-18,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,24,0,0
+1618845964361,25,api/country,200,OK,Thread Group 1-18,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,24,0,0
+1618845963642,740,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-18,,true,,198548,3565,1,1,null,408,4,125
+1618845964643,163,api/login,200,OK,Thread Group 1-19,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,163,0,59
+1618845964807,16,api/areas/district-city,200,OK,Thread Group 1-19,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845964824,29,api/areas/sub-district/32.17,200,OK,Thread Group 1-19,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,25,0,0
+1618845964853,18,api/areas/village/32.17.09,200,OK,Thread Group 1-19,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845964872,178,api/areas/hospital,200,OK,Thread Group 1-19,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618845965051,17,api/country,200,OK,Thread Group 1-19,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,15,0,0
+1618845964642,421,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-19,,true,,198548,3565,1,1,null,256,6,59
+1618845965642,131,api/login,200,OK,Thread Group 1-20,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,131,0,48
+1618845965774,16,api/areas/district-city,200,OK,Thread Group 1-20,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845965791,49,api/areas/sub-district/32.17,200,OK,Thread Group 1-20,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,48,0,0
+1618845965840,17,api/areas/village/32.17.09,200,OK,Thread Group 1-20,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,17,0,0
+1618845965858,322,api/areas/hospital,200,OK,Thread Group 1-20,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,33,0,0
+1618845966180,30,api/country,200,OK,Thread Group 1-20,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,18,0,0
+1618845965641,565,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-20,,true,,198548,3565,1,1,null,263,4,48
+1618845966643,179,api/login,200,OK,Thread Group 1-21,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,179,0,46
+1618845966821,30,api/areas/district-city,200,OK,Thread Group 1-21,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,30,0,0
+1618845966851,24,api/areas/sub-district/32.17,200,OK,Thread Group 1-21,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,23,0,0
+1618845966875,15,api/areas/village/32.17.09,200,OK,Thread Group 1-21,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845966891,343,api/areas/hospital,200,OK,Thread Group 1-21,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618845967235,112,api/country,200,OK,Thread Group 1-21,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,93,0,0
+1618845966642,703,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-21,,true,,198548,3565,1,1,null,363,3,46
+1618845967641,180,api/login,200,OK,Thread Group 1-22,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,180,0,93
+1618845967822,247,api/areas/district-city,200,OK,Thread Group 1-22,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,247,0,0
+1618845968070,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-22,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618845968088,16,api/areas/village/32.17.09,200,OK,Thread Group 1-22,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845968104,189,api/areas/hospital,200,OK,Thread Group 1-22,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,18,0,0
+1618845968294,18,api/country,200,OK,Thread Group 1-22,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845967640,668,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-22,,true,,198548,3565,1,1,null,494,4,93
+1618845968641,122,api/login,200,OK,Thread Group 1-23,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,122,0,42
+1618845968764,16,api/areas/district-city,200,OK,Thread Group 1-23,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845968781,14,api/areas/sub-district/32.17,200,OK,Thread Group 1-23,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,14,0,0
+1618845968796,16,api/areas/village/32.17.09,200,OK,Thread Group 1-23,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845968812,152,api/areas/hospital,200,OK,Thread Group 1-23,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,27,0,0
+1618845968964,18,api/country,200,OK,Thread Group 1-23,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845968641,338,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-23,,true,,198548,3565,1,1,null,211,3,42
+1618845969641,167,api/login,200,OK,Thread Group 1-24,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,166,0,43
+1618845969808,17,api/areas/district-city,200,OK,Thread Group 1-24,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845969825,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-24,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618845969842,17,api/areas/village/32.17.09,200,OK,Thread Group 1-24,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,17,0,0
+1618845969860,183,api/areas/hospital,200,OK,Thread Group 1-24,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,33,0,0
+1618845970044,24,api/country,200,OK,Thread Group 1-24,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618845969640,424,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-24,,true,,198548,3565,1,1,null,271,5,43
+1618845970625,181,api/login,200,OK,Thread Group 1-25,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,180,0,54
+1618845970806,16,api/areas/district-city,200,OK,Thread Group 1-25,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618845970823,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-25,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618845970842,15,api/areas/village/32.17.09,200,OK,Thread Group 1-25,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845970857,153,api/areas/hospital,200,OK,Thread Group 1-25,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,37,0,0
+1618845971010,18,api/country,200,OK,Thread Group 1-25,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845970624,401,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-25,,true,,198548,3565,1,1,null,282,3,54
+1618845971625,140,api/login,200,OK,Thread Group 1-26,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,140,0,45
+1618845971766,17,api/areas/district-city,200,OK,Thread Group 1-26,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618845971784,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-26,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618845971799,16,api/areas/village/32.17.09,200,OK,Thread Group 1-26,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845971816,147,api/areas/hospital,200,OK,Thread Group 1-26,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618845971963,19,api/country,200,OK,Thread Group 1-26,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618845971624,354,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-26,,true,,198548,3565,1,1,null,226,3,45
+1618845972674,128,api/login,200,OK,Thread Group 1-27,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,128,0,47
+1618845972803,15,api/areas/district-city,200,OK,Thread Group 1-27,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618845972818,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-27,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618845972834,16,api/areas/village/32.17.09,200,OK,Thread Group 1-27,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618845972851,176,api/areas/hospital,200,OK,Thread Group 1-27,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618845973028,18,api/country,200,OK,Thread Group 1-27,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845972673,369,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-27,,true,,198548,3565,1,1,null,211,4,47
+1618845973673,165,api/login,200,OK,Thread Group 1-28,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,165,0,41
+1618845973839,18,api/areas/district-city,200,OK,Thread Group 1-28,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618845973858,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-28,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,14,0,0
+1618845973873,18,api/areas/village/32.17.09,200,OK,Thread Group 1-28,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845973892,134,api/areas/hospital,200,OK,Thread Group 1-28,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,24,0,0
+1618845974027,20,api/country,200,OK,Thread Group 1-28,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618845973672,370,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-28,,true,,198548,3565,1,1,null,258,6,41
+1618845974674,151,api/login,200,OK,Thread Group 1-29,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,150,0,54
+1618845974825,39,api/areas/district-city,200,OK,Thread Group 1-29,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,39,0,0
+1618845974865,38,api/areas/sub-district/32.17,200,OK,Thread Group 1-29,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,38,0,0
+1618845974904,14,api/areas/village/32.17.09,200,OK,Thread Group 1-29,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618845974918,182,api/areas/hospital,200,OK,Thread Group 1-29,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,28,0,0
+1618845975100,20,api/country,200,OK,Thread Group 1-29,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618845974673,444,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-29,,true,,198548,3565,1,1,null,286,3,54
+1618845975704,138,api/login,200,OK,Thread Group 1-30,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,138,0,56
+1618845975843,38,api/areas/district-city,200,OK,Thread Group 1-30,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,38,0,0
+1618845975881,32,api/areas/sub-district/32.17,200,OK,Thread Group 1-30,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,32,0,0
+1618845975914,16,api/areas/village/32.17.09,200,OK,Thread Group 1-30,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845975930,181,api/areas/hospital,200,OK,Thread Group 1-30,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618845976111,25,api/country,200,OK,Thread Group 1-30,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,22,0,0
+1618845975703,430,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-30,,true,,198548,3565,1,1,null,265,3,56
+1618845976673,166,api/login,200,OK,Thread Group 1-31,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,166,0,45
+1618845976839,37,api/areas/district-city,200,OK,Thread Group 1-31,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,37,0,0
+1618845976876,37,api/areas/sub-district/32.17,200,OK,Thread Group 1-31,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,37,0,0
+1618845976913,29,api/areas/village/32.17.09,200,OK,Thread Group 1-31,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,29,0,0
+1618845976942,166,api/areas/hospital,200,OK,Thread Group 1-31,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,30,0,0
+1618845977108,25,api/country,200,OK,Thread Group 1-31,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,21,0,0
+1618845976672,460,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-31,,true,,198548,3565,1,1,null,320,2,45
+1618845977674,347,api/login,200,OK,Thread Group 1-32,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,347,0,255
+1618845978022,413,api/areas/district-city,200,OK,Thread Group 1-32,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,413,0,0
+1618845978436,26,api/areas/sub-district/32.17,200,OK,Thread Group 1-32,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,26,0,0
+1618845978463,34,api/areas/village/32.17.09,200,OK,Thread Group 1-32,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,34,0,0
+1618845978497,643,api/areas/hospital,200,OK,Thread Group 1-32,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618845979140,21,api/country,200,OK,Thread Group 1-32,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618845977672,1484,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-32,,true,,198548,3565,2,2,null,860,5,255
+1618845978672,502,api/login,200,OK,Thread Group 1-33,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,502,0,402
+1618845979174,51,api/areas/district-city,200,OK,Thread Group 1-33,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,51,0,0
+1618845979225,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-33,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618845979244,13,api/areas/village/32.17.09,200,OK,Thread Group 1-33,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,13,0,0
+1618845979257,144,api/areas/hospital,200,OK,Thread Group 1-33,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,24,0,0
+1618845979402,18,api/country,200,OK,Thread Group 1-33,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,15,0,0
+1618845978671,746,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-33,,true,,198548,3565,1,1,null,623,3,402
+1618845979673,131,api/login,200,OK,Thread Group 1-34,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,130,0,45
+1618845979805,15,api/areas/district-city,200,OK,Thread Group 1-34,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618845979821,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-34,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618845979838,14,api/areas/village/32.17.09,200,OK,Thread Group 1-34,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618845979853,891,api/areas/hospital,200,OK,Thread Group 1-34,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618845980745,125,api/country,200,OK,Thread Group 1-34,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,125,0,0
+1618845979672,1192,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-34,,true,,198548,3565,2,2,null,319,7,45
+1618845980720,621,api/login,200,OK,Thread Group 1-35,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,621,0,471
+1618845981341,31,api/areas/district-city,200,OK,Thread Group 1-35,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,31,0,0
+1618845981373,279,api/areas/sub-district/32.17,200,OK,Thread Group 1-35,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,279,0,0
+1618845981652,48,api/areas/village/32.17.09,200,OK,Thread Group 1-35,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,48,0,0
+1618845981719,505,api/login,200,OK,Thread Group 1-36,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,505,0,339
+1618845982225,78,api/areas/district-city,200,OK,Thread Group 1-36,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,78,0,0
+1618845982303,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-36,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618845982321,18,api/areas/village/32.17.09,200,OK,Thread Group 1-36,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618845981701,660,api/areas/hospital,200,OK,Thread Group 1-35,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,67,0,0
+1618845982361,42,api/country,200,OK,Thread Group 1-35,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,40,0,0
+1618845980719,1681,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-35,,true,,198548,3565,2,2,null,1086,3,471
+1618845982340,220,api/areas/hospital,200,OK,Thread Group 1-36,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,29,0,0
+1618845982561,25,api/country,200,OK,Thread Group 1-36,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618845981718,863,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-36,,true,,198548,3565,1,1,null,670,5,339
+1618845982719,219,api/login,200,OK,Thread Group 1-37,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,219,0,60
+1618845982939,59,api/areas/district-city,200,OK,Thread Group 1-37,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,59,0,0
+1618845982998,60,api/areas/sub-district/32.17,200,OK,Thread Group 1-37,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,60,0,0
+1618845983058,52,api/areas/village/32.17.09,200,OK,Thread Group 1-37,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,52,0,0
+1618845983111,960,api/areas/hospital,200,OK,Thread Group 1-37,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,87,0,0
+1618845984072,45,api/country,200,OK,Thread Group 1-37,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,45,0,0
+1618845982718,1395,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-37,,true,,198548,3565,2,2,null,522,5,60
+1618845983719,701,api/login,200,OK,Thread Group 1-38,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,701,0,394
+1618845984421,29,api/areas/district-city,200,OK,Thread Group 1-38,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,29,0,0
+1618845984450,58,api/areas/sub-district/32.17,200,OK,Thread Group 1-38,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,58,0,0
+1618845984508,115,api/areas/village/32.17.09,200,OK,Thread Group 1-38,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,115,0,0
+1618845984720,441,api/login,200,OK,Thread Group 1-39,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,441,0,314
+1618845985161,124,api/areas/district-city,200,OK,Thread Group 1-39,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,124,0,0
+1618845985285,53,api/areas/sub-district/32.17,200,OK,Thread Group 1-39,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,53,0,0
+1618845985339,90,api/areas/village/32.17.09,200,OK,Thread Group 1-39,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,90,0,0
+1618845984623,932,api/areas/hospital,200,OK,Thread Group 1-38,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,61,0,0
+1618845985555,170,api/country,200,OK,Thread Group 1-38,text,true,,8954,596,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,170,0,0
+1618845983718,2005,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-38,,true,,198548,3565,3,3,null,1134,2,394
+1618845985719,330,api/login,200,OK,Thread Group 1-40,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,330,0,193
+1618845986050,42,api/areas/district-city,200,OK,Thread Group 1-40,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,42,0,0
+1618845986092,35,api/areas/sub-district/32.17,200,OK,Thread Group 1-40,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,35,0,0
+1618845986127,48,api/areas/village/32.17.09,200,OK,Thread Group 1-40,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,48,0,0
+1618845985430,788,api/areas/hospital,200,OK,Thread Group 1-39,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,125,0,0
+1618845986219,40,api/country,200,OK,Thread Group 1-39,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,39,0,0
+1618845984719,1536,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-39,,true,,198548,3565,2,2,null,872,4,314
+1618845986175,592,api/areas/hospital,200,OK,Thread Group 1-40,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,44,0,0
+1618845986768,44,api/country,200,OK,Thread Group 1-40,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,27,0,0
+1618845985719,1091,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-40,,true,,198548,3565,2,2,null,526,1,193
+1618845986719,277,api/login,200,OK,Thread Group 1-41,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,277,0,75
+1618845986997,154,api/areas/district-city,200,OK,Thread Group 1-41,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,154,0,0
+1618845987151,217,api/areas/sub-district/32.17,200,OK,Thread Group 1-41,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,217,0,0
+1618845987369,47,api/areas/village/32.17.09,200,OK,Thread Group 1-41,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,47,0,0
+1618845987417,451,api/areas/hospital,200,OK,Thread Group 1-41,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,43,0,0
+1618845987869,42,api/country,200,OK,Thread Group 1-41,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,28,0,0
+1618845986718,1188,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-41,,true,,198548,3565,2,2,null,766,4,75
+1618845987706,251,api/login,200,OK,Thread Group 1-42,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,251,0,161
+1618845987957,111,api/areas/district-city,200,OK,Thread Group 1-42,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,111,0,0
+1618845988068,37,api/areas/sub-district/32.17,200,OK,Thread Group 1-42,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,37,0,0
+1618845988105,79,api/areas/village/32.17.09,200,OK,Thread Group 1-42,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,79,0,0
+1618845988184,1182,api/areas/hospital,200,OK,Thread Group 1-42,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,71,0,0
+1618845988705,668,api/login,200,OK,Thread Group 1-43,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,668,0,442
+1618845989367,82,api/country,200,OK,Thread Group 1-42,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,55,0,0
+1618845987705,1742,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-42,,true,,198548,3565,2,2,null,604,2,161
+1618845989373,179,api/areas/district-city,200,OK,Thread Group 1-43,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,179,0,0
+1618845989553,26,api/areas/sub-district/32.17,200,OK,Thread Group 1-43,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,26,0,0
+1618845989580,33,api/areas/village/32.17.09,200,OK,Thread Group 1-43,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,32,0,0
+1618845989705,538,api/login,200,OK,Thread Group 1-44,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,538,0,419
+1618845990245,35,api/areas/district-city,200,OK,Thread Group 1-44,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,35,0,0
+1618845990281,34,api/areas/sub-district/32.17,200,OK,Thread Group 1-44,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,34,0,0
+1618845990316,60,api/areas/village/32.17.09,200,OK,Thread Group 1-44,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,60,0,0
+1618845989613,783,api/areas/hospital,200,OK,Thread Group 1-43,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,42,0,0
+1618845990396,43,api/country,200,OK,Thread Group 1-43,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,43,0,0
+1618845988704,1732,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-43,,true,,198548,3565,2,2,null,990,3,442
+1618845990376,563,api/areas/hospital,200,OK,Thread Group 1-44,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,93,0,0
+1618845990689,265,api/login,200,OK,Thread Group 1-45,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,265,0,104
+1618845990940,35,api/country,200,OK,Thread Group 1-44,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,35,0,0
+1618845989704,1265,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-44,,true,,198548,3565,2,2,null,795,6,419
+1618845990955,40,api/areas/district-city,200,OK,Thread Group 1-45,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,40,0,0
+1618845990995,46,api/areas/sub-district/32.17,200,OK,Thread Group 1-45,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,46,0,0
+1618845991042,28,api/areas/village/32.17.09,200,OK,Thread Group 1-45,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618845991071,350,api/areas/hospital,200,OK,Thread Group 1-45,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,32,0,0
+1618845991422,41,api/country,200,OK,Thread Group 1-45,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,33,0,0
+1618845990688,770,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-45,,true,,198548,3565,1,1,null,444,5,104
+1618845991705,213,api/login,200,OK,Thread Group 1-46,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,213,0,112
+1618845991918,27,api/areas/district-city,200,OK,Thread Group 1-46,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,27,0,0
+1618845991946,37,api/areas/sub-district/32.17,200,OK,Thread Group 1-46,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,37,0,0
+1618845991984,29,api/areas/village/32.17.09,200,OK,Thread Group 1-46,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,29,0,0
+1618845992014,377,api/areas/hospital,200,OK,Thread Group 1-46,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,38,0,0
+1618845992391,38,api/country,200,OK,Thread Group 1-46,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,30,0,0
+1618845991705,721,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-46,,true,,198548,3565,1,1,null,374,4,112
+1618845992706,245,api/login,200,OK,Thread Group 1-47,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,245,0,90
+1618845992951,50,api/areas/district-city,200,OK,Thread Group 1-47,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,50,0,0
+1618845993002,44,api/areas/sub-district/32.17,200,OK,Thread Group 1-47,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,44,0,0
+1618845993046,27,api/areas/village/32.17.09,200,OK,Thread Group 1-47,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,27,0,0
+1618845993074,575,api/areas/hospital,200,OK,Thread Group 1-47,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,45,0,0
+1618845993650,42,api/country,200,OK,Thread Group 1-47,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,35,0,0
+1618845992705,983,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-47,,true,,198548,3565,1,1,null,446,5,90
+1618845993706,294,api/login,200,OK,Thread Group 1-48,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,294,0,159
+1618845994000,31,api/areas/district-city,200,OK,Thread Group 1-48,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,31,0,0
+1618845994031,27,api/areas/sub-district/32.17,200,OK,Thread Group 1-48,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,27,0,0
+1618845994058,24,api/areas/village/32.17.09,200,OK,Thread Group 1-48,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,24,0,0
+1618845994082,746,api/areas/hospital,200,OK,Thread Group 1-48,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618845994829,54,api/country,200,OK,Thread Group 1-48,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,54,0,0
+1618845993705,1176,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-48,,true,,198548,3565,2,2,null,451,2,159
+1618845994706,432,api/login,200,OK,Thread Group 1-49,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,432,0,340
+1618845995139,26,api/areas/district-city,200,OK,Thread Group 1-49,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,26,0,0
+1618845995166,36,api/areas/sub-district/32.17,200,OK,Thread Group 1-49,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,36,0,0
+1618845995202,345,api/areas/village/32.17.09,200,OK,Thread Group 1-49,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,345,0,0
+1618845995548,409,api/areas/hospital,200,OK,Thread Group 1-49,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,31,0,0
+1618845995705,256,api/login,200,OK,Thread Group 1-50,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,256,0,165
+1618845995958,73,api/country,200,OK,Thread Group 1-49,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,73,0,0
+1618845995962,69,api/areas/district-city,200,OK,Thread Group 1-50,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,69,0,0
+1618845994705,1321,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-49,,true,,198548,3565,2,2,null,943,5,340
+1618845996031,19,api/areas/sub-district/32.17,200,OK,Thread Group 1-50,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,19,0,0
+1618845996050,21,api/areas/village/32.17.09,200,OK,Thread Group 1-50,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,21,0,0
+1618845996071,220,api/areas/hospital,200,OK,Thread Group 1-50,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,32,0,0
+1618845996292,22,api/country,200,OK,Thread Group 1-50,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618845995704,607,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-50,,true,,198548,3565,1,1,null,413,3,165
+1618845996715,184,api/login,200,OK,Thread Group 1-51,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,184,0,54
+1618845996900,19,api/areas/district-city,200,OK,Thread Group 1-51,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,19,0,0
+1618845996919,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-51,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618845996935,13,api/areas/village/32.17.09,200,OK,Thread Group 1-51,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,13,0,0
+1618845996948,145,api/areas/hospital,200,OK,Thread Group 1-51,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,17,0,0
+1618845997094,19,api/country,200,OK,Thread Group 1-51,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618845996715,395,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-51,,true,,198548,3565,1,1,null,265,4,54
+1618845997689,125,api/login,200,OK,Thread Group 1-52,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,125,0,44
+1618845997815,21,api/areas/district-city,200,OK,Thread Group 1-52,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,21,0,0
+1618845997837,240,api/areas/sub-district/32.17,200,OK,Thread Group 1-52,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,240,0,0
+1618845998078,43,api/areas/village/32.17.09,200,OK,Thread Group 1-52,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,43,0,0
+1618845998122,144,api/areas/hospital,200,OK,Thread Group 1-52,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618845998266,23,api/country,200,OK,Thread Group 1-52,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618845997688,596,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-52,,true,,198548,3565,1,1,null,473,5,44
+1618845998689,166,api/login,200,OK,Thread Group 1-53,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,166,0,42
+1618845998855,19,api/areas/district-city,200,OK,Thread Group 1-53,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,19,0,0
+1618845998875,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-53,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618845998893,15,api/areas/village/32.17.09,200,OK,Thread Group 1-53,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618845998909,152,api/areas/hospital,200,OK,Thread Group 1-53,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,27,0,0
+1618845999062,28,api/country,200,OK,Thread Group 1-53,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,27,0,0
+1618845998688,397,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-53,,true,,198548,3565,1,1,null,271,5,42
+1618845999710,135,api/login,200,OK,Thread Group 1-54,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,135,0,47
+1618845999846,23,api/areas/district-city,200,OK,Thread Group 1-54,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,23,0,0
+1618845999870,46,api/areas/sub-district/32.17,200,OK,Thread Group 1-54,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,46,0,0
+1618845999917,45,api/areas/village/32.17.09,200,OK,Thread Group 1-54,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,44,0,0
+1618845999962,191,api/areas/hospital,200,OK,Thread Group 1-54,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,37,0,0
+1618846000154,33,api/country,200,OK,Thread Group 1-54,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,29,0,0
+1618845999709,473,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-54,,true,,198548,3565,1,1,null,314,5,47
+1618846000689,158,api/login,200,OK,Thread Group 1-55,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,158,0,46
+1618846000848,43,api/areas/district-city,200,OK,Thread Group 1-55,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,43,0,0
+1618846000892,36,api/areas/sub-district/32.17,200,OK,Thread Group 1-55,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,36,0,0
+1618846000928,41,api/areas/village/32.17.09,200,OK,Thread Group 1-55,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,41,0,0
+1618846000970,287,api/areas/hospital,200,OK,Thread Group 1-55,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,50,0,0
+1618846001258,24,api/country,200,OK,Thread Group 1-55,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,22,0,0
+1618846000689,589,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-55,,true,,198548,3565,1,1,null,350,4,46
+1618846001689,350,api/login,200,OK,Thread Group 1-56,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,350,0,51
+1618846002040,19,api/areas/district-city,200,OK,Thread Group 1-56,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,19,0,0
+1618846002059,25,api/areas/sub-district/32.17,200,OK,Thread Group 1-56,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,25,0,0
+1618846002084,21,api/areas/village/32.17.09,200,OK,Thread Group 1-56,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,21,0,0
+1618846002106,291,api/areas/hospital,200,OK,Thread Group 1-56,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,36,0,0
+1618846002397,46,api/country,200,OK,Thread Group 1-56,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618846001688,752,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-56,,true,,198548,3565,1,1,null,471,3,51
+1618846002690,229,api/login,200,OK,Thread Group 1-57,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,229,0,89
+1618846002919,20,api/areas/district-city,200,OK,Thread Group 1-57,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,20,0,0
+1618846002939,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-57,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618846002957,23,api/areas/village/32.17.09,200,OK,Thread Group 1-57,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,23,0,0
+1618846002981,178,api/areas/hospital,200,OK,Thread Group 1-57,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,24,0,0
+1618846003159,24,api/country,200,OK,Thread Group 1-57,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,22,0,0
+1618846002689,492,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-57,,true,,198548,3565,1,1,null,336,3,89
+1618846003691,235,api/login,200,OK,Thread Group 1-58,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,235,0,77
+1618846003926,39,api/areas/district-city,200,OK,Thread Group 1-58,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,39,0,0
+1618846003966,28,api/areas/sub-district/32.17,200,OK,Thread Group 1-58,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,28,0,0
+1618846003994,29,api/areas/village/32.17.09,200,OK,Thread Group 1-58,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,29,0,0
+1618846004023,184,api/areas/hospital,200,OK,Thread Group 1-58,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,57,0,0
+1618846004208,20,api/country,200,OK,Thread Group 1-58,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618846003690,535,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-58,,true,,198548,3565,1,1,null,408,4,77
+1618846004690,225,api/login,200,OK,Thread Group 1-59,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,225,0,92
+1618846004915,174,api/areas/district-city,200,OK,Thread Group 1-59,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,174,0,0
+1618846005089,30,api/areas/sub-district/32.17,200,OK,Thread Group 1-59,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,29,0,0
+1618846005119,30,api/areas/village/32.17.09,200,OK,Thread Group 1-59,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,30,0,0
+1618846005149,365,api/areas/hospital,200,OK,Thread Group 1-59,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,41,0,0
+1618846005515,47,api/country,200,OK,Thread Group 1-59,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,46,0,0
+1618846004689,871,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-59,,true,,198548,3565,1,1,null,545,2,92
+1618846005689,235,api/login,200,OK,Thread Group 1-60,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,235,0,117
+1618846005925,43,api/areas/district-city,200,OK,Thread Group 1-60,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,42,0,0
+1618846005968,42,api/areas/sub-district/32.17,200,OK,Thread Group 1-60,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,42,0,0
+1618846006011,31,api/areas/village/32.17.09,200,OK,Thread Group 1-60,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,31,0,0
+1618846006042,440,api/areas/hospital,200,OK,Thread Group 1-60,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,48,0,0
+1618846006483,56,api/country,200,OK,Thread Group 1-60,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,52,0,0
+1618846005688,847,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-60,,true,,198548,3565,1,1,null,450,4,117
+1618846006690,192,api/login,200,OK,Thread Group 1-61,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,192,0,82
+1618846006881,41,api/areas/district-city,200,OK,Thread Group 1-61,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,41,0,0
+1618846006922,43,api/areas/sub-district/32.17,200,OK,Thread Group 1-61,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,43,0,0
+1618846006966,30,api/areas/village/32.17.09,200,OK,Thread Group 1-61,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,30,0,0
+1618846006996,328,api/areas/hospital,200,OK,Thread Group 1-61,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,63,0,0
+1618846007325,66,api/country,200,OK,Thread Group 1-61,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,58,0,0
+1618846006689,700,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-61,,true,,198548,3565,1,1,null,427,3,82
+1618846007688,142,api/login,200,OK,Thread Group 1-62,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,142,0,58
+1618846007831,49,api/areas/district-city,200,OK,Thread Group 1-62,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,49,0,0
+1618846007881,23,api/areas/sub-district/32.17,200,OK,Thread Group 1-62,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,23,0,0
+1618846007905,16,api/areas/village/32.17.09,200,OK,Thread Group 1-62,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618846007921,279,api/areas/hospital,200,OK,Thread Group 1-62,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618846008201,84,api/country,200,OK,Thread Group 1-62,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,84,0,0
+1618846007687,593,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-62,,true,,198548,3565,1,1,null,333,5,58
+1618846008688,614,api/login,200,OK,Thread Group 1-63,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,614,0,307
+1618846009303,163,api/areas/district-city,200,OK,Thread Group 1-63,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,162,0,0
+1618846009466,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-63,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846009483,14,api/areas/village/32.17.09,200,OK,Thread Group 1-63,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618846009497,226,api/areas/hospital,200,OK,Thread Group 1-63,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,24,0,0
+1618846009723,21,api/country,200,OK,Thread Group 1-63,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618846008688,1054,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-63,,true,,198548,3565,2,2,null,849,2,307
+1618846009688,139,api/login,200,OK,Thread Group 1-64,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,139,0,59
+1618846009828,14,api/areas/district-city,200,OK,Thread Group 1-64,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,14,0,0
+1618846009843,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-64,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618846009860,16,api/areas/village/32.17.09,200,OK,Thread Group 1-64,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618846009876,240,api/areas/hospital,200,OK,Thread Group 1-64,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,28,0,0
+1618846010117,18,api/country,200,OK,Thread Group 1-64,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618846009687,444,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-64,,true,,198548,3565,1,1,null,230,4,59
+1618846010688,141,api/login,200,OK,Thread Group 1-65,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,141,0,54
+1618846010830,17,api/areas/district-city,200,OK,Thread Group 1-65,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618846010848,47,api/areas/sub-district/32.17,200,OK,Thread Group 1-65,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,47,0,0
+1618846010896,22,api/areas/village/32.17.09,200,OK,Thread Group 1-65,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,22,0,0
+1618846010919,260,api/areas/hospital,200,OK,Thread Group 1-65,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,36,0,0
+1618846011179,27,api/country,200,OK,Thread Group 1-65,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618846010687,514,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-65,,true,,198548,3565,1,1,null,283,6,54
+1618846011673,184,api/login,200,OK,Thread Group 1-66,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,184,0,95
+1618846011857,16,api/areas/district-city,200,OK,Thread Group 1-66,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618846011873,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-66,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846011889,17,api/areas/village/32.17.09,200,OK,Thread Group 1-66,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,17,0,0
+1618846011906,270,api/areas/hospital,200,OK,Thread Group 1-66,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618846012176,20,api/country,200,OK,Thread Group 1-66,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,18,0,0
+1618846011672,523,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-66,,true,,198548,3565,1,1,null,272,1,95
+1618846012672,279,api/login,200,OK,Thread Group 1-67,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,279,0,41
+1618846012952,21,api/areas/district-city,200,OK,Thread Group 1-67,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,21,0,0
+1618846012973,59,api/areas/sub-district/32.17,200,OK,Thread Group 1-67,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,59,0,0
+1618846013033,15,api/areas/village/32.17.09,200,OK,Thread Group 1-67,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846013048,1236,api/areas/hospital,200,OK,Thread Group 1-67,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,89,0,0
+1618846013673,798,api/login,200,OK,Thread Group 1-68,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,798,0,611
+1618846014472,15,api/areas/district-city,200,OK,Thread Group 1-68,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618846014284,264,api/country,200,OK,Thread Group 1-67,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,264,0,0
+1618846012671,1874,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-67,,true,,198548,3565,2,2,null,727,4,41
+1618846014488,236,api/areas/sub-district/32.17,200,OK,Thread Group 1-68,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,235,0,0
+1618846014672,496,api/login,200,OK,Thread Group 1-69,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,496,0,45
+1618846014724,444,api/areas/village/32.17.09,200,OK,Thread Group 1-68,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,444,0,0
+1618846015168,33,api/areas/district-city,200,OK,Thread Group 1-69,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,33,0,0
+1618846015201,21,api/areas/sub-district/32.17,200,OK,Thread Group 1-69,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,21,0,0
+1618846015223,22,api/areas/village/32.17.09,200,OK,Thread Group 1-69,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,22,0,0
+1618846015169,829,api/areas/hospital,200,OK,Thread Group 1-68,text,true,,183448,617,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,39,0,0
+1618846015998,30,api/country,200,OK,Thread Group 1-68,text,true,,8954,596,3,3,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,29,0,0
+1618846013672,2352,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-68,,true,,198548,3565,3,3,null,1560,4,611
+1618846015245,978,api/areas/hospital,200,OK,Thread Group 1-69,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,30,0,0
+1618846015673,579,api/login,200,OK,Thread Group 1-70,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,579,0,355
+1618846016223,42,api/country,200,OK,Thread Group 1-69,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,42,0,0
+1618846014671,1592,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-69,,true,,198548,3565,2,2,null,644,2,45
+1618846016252,44,api/areas/district-city,200,OK,Thread Group 1-70,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,44,0,0
+1618846016296,31,api/areas/sub-district/32.17,200,OK,Thread Group 1-70,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,31,0,0
+1618846016327,25,api/areas/village/32.17.09,200,OK,Thread Group 1-70,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,25,0,0
+1618846016353,207,api/areas/hospital,200,OK,Thread Group 1-70,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618846016561,20,api/country,200,OK,Thread Group 1-70,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618846015672,906,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-70,,true,,198548,3565,1,1,null,721,4,355
+1618846016673,174,api/login,200,OK,Thread Group 1-71,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,174,0,72
+1618846016847,18,api/areas/district-city,200,OK,Thread Group 1-71,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618846016865,23,api/areas/sub-district/32.17,200,OK,Thread Group 1-71,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,23,0,0
+1618846016889,16,api/areas/village/32.17.09,200,OK,Thread Group 1-71,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618846016905,1221,api/areas/hospital,200,OK,Thread Group 1-71,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,25,0,0
+1618846017672,454,api/login,200,OK,Thread Group 1-72,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,454,0,267
+1618846018127,105,api/areas/district-city,200,OK,Thread Group 1-72,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,105,0,0
+1618846018126,106,api/country,200,OK,Thread Group 1-71,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,106,0,0
+1618846016672,1558,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-71,,true,,198548,3565,2,2,null,362,3,72
+1618846018233,653,api/areas/sub-district/32.17,200,OK,Thread Group 1-72,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,653,0,0
+1618846018886,26,api/areas/village/32.17.09,200,OK,Thread Group 1-72,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,26,0,0
+1618846018672,339,api/login,200,OK,Thread Group 1-73,text,true,,1113,520,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,339,0,243
+1618846019012,26,api/areas/district-city,200,OK,Thread Group 1-73,text,true,,1807,608,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,26,0,0
+1618846019039,18,api/areas/sub-district/32.17,200,OK,Thread Group 1-73,text,true,,1938,613,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,18,0,0
+1618846018912,157,api/areas/hospital,200,OK,Thread Group 1-72,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,30,0,0
+1618846019057,18,api/areas/village/32.17.09,200,OK,Thread Group 1-73,text,true,,1288,611,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,18,0,0
+1618846019069,23,api/country,200,OK,Thread Group 1-72,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,22,0,0
+1618846017671,1418,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-72,,true,,198548,3565,2,2,null,1290,3,267
+1618846019075,202,api/areas/hospital,200,OK,Thread Group 1-73,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846019278,138,api/country,200,OK,Thread Group 1-73,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,138,0,0
+1618846018671,741,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-73,,true,,198548,3565,1,1,null,559,4,243
+1618846019683,240,api/login,200,OK,Thread Group 1-74,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,239,0,110
+1618846019923,19,api/areas/district-city,200,OK,Thread Group 1-74,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,19,0,0
+1618846019943,27,api/areas/sub-district/32.17,200,OK,Thread Group 1-74,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,27,0,0
+1618846019970,39,api/areas/village/32.17.09,200,OK,Thread Group 1-74,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,39,0,0
+1618846020009,139,api/areas/hospital,200,OK,Thread Group 1-74,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618846020150,22,api/country,200,OK,Thread Group 1-74,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618846019682,486,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-74,,true,,198548,3565,1,1,null,365,4,110
+1618846020687,141,api/login,200,OK,Thread Group 1-75,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,141,0,43
+1618846020828,39,api/areas/district-city,200,OK,Thread Group 1-75,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,39,0,0
+1618846020868,27,api/areas/sub-district/32.17,200,OK,Thread Group 1-75,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,27,0,0
+1618846020895,28,api/areas/village/32.17.09,200,OK,Thread Group 1-75,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618846020924,242,api/areas/hospital,200,OK,Thread Group 1-75,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618846021167,48,api/country,200,OK,Thread Group 1-75,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,46,0,0
+1618846020686,525,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-75,,true,,198548,3565,1,1,null,304,4,43
+1618846021672,166,api/login,200,OK,Thread Group 1-76,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,166,0,42
+1618846021840,17,api/areas/district-city,200,OK,Thread Group 1-76,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618846021857,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-76,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846021874,15,api/areas/village/32.17.09,200,OK,Thread Group 1-76,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846021890,142,api/areas/hospital,200,OK,Thread Group 1-76,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846022033,18,api/country,200,OK,Thread Group 1-76,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618846021671,374,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-76,,true,,198548,3565,1,1,null,250,6,42
+1618846022658,472,api/login,200,OK,Thread Group 1-77,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,472,0,386
+1618846023130,18,api/areas/district-city,200,OK,Thread Group 1-77,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618846023148,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-77,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618846023165,14,api/areas/village/32.17.09,200,OK,Thread Group 1-77,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618846023179,173,api/areas/hospital,200,OK,Thread Group 1-77,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,26,0,0
+1618846023352,19,api/country,200,OK,Thread Group 1-77,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,18,0,0
+1618846022657,713,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-77,,true,,198548,3565,1,1,null,565,2,386
+1618846023666,173,api/login,200,OK,Thread Group 1-78,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,173,0,47
+1618846023840,247,api/areas/district-city,200,OK,Thread Group 1-78,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,247,0,0
+1618846024087,23,api/areas/sub-district/32.17,200,OK,Thread Group 1-78,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,23,0,0
+1618846024110,17,api/areas/village/32.17.09,200,OK,Thread Group 1-78,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,17,0,0
+1618846024128,171,api/areas/hospital,200,OK,Thread Group 1-78,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846024299,28,api/country,200,OK,Thread Group 1-78,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618846023665,659,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-78,,true,,198548,3565,1,1,null,503,4,47
+1618846024657,207,api/login,200,OK,Thread Group 1-79,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,207,0,84
+1618846024865,37,api/areas/district-city,200,OK,Thread Group 1-79,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,37,0,0
+1618846024902,33,api/areas/sub-district/32.17,200,OK,Thread Group 1-79,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,33,0,0
+1618846024935,26,api/areas/village/32.17.09,200,OK,Thread Group 1-79,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,26,0,0
+1618846024962,223,api/areas/hospital,200,OK,Thread Group 1-79,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,23,0,0
+1618846025185,46,api/country,200,OK,Thread Group 1-79,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,43,0,0
+1618846024656,572,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-79,,true,,198548,3565,1,1,null,369,3,84
+1618846025657,207,api/login,200,OK,Thread Group 1-80,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,207,0,109
+1618846025864,47,api/areas/district-city,200,OK,Thread Group 1-80,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,47,0,0
+1618846025911,46,api/areas/sub-district/32.17,200,OK,Thread Group 1-80,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,46,0,0
+1618846025957,48,api/areas/village/32.17.09,200,OK,Thread Group 1-80,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,48,0,0
+1618846026005,394,api/areas/hospital,200,OK,Thread Group 1-80,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,78,0,0
+1618846026400,30,api/country,200,OK,Thread Group 1-80,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,28,0,0
+1618846025656,772,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-80,,true,,198548,3565,1,1,null,454,2,109
+1618846026660,235,api/login,200,OK,Thread Group 1-81,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,235,0,104
+1618846026896,29,api/areas/district-city,200,OK,Thread Group 1-81,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,29,0,0
+1618846026925,52,api/areas/sub-district/32.17,200,OK,Thread Group 1-81,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,52,0,0
+1618846026978,28,api/areas/village/32.17.09,200,OK,Thread Group 1-81,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,27,0,0
+1618846027006,267,api/areas/hospital,200,OK,Thread Group 1-81,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,75,0,0
+1618846027274,38,api/country,200,OK,Thread Group 1-81,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,35,0,0
+1618846026659,649,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-81,,true,,198548,3565,1,1,null,453,4,104
+1618846027658,181,api/login,200,OK,Thread Group 1-82,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,181,0,53
+1618846027840,18,api/areas/district-city,200,OK,Thread Group 1-82,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618846027859,22,api/areas/sub-district/32.17,200,OK,Thread Group 1-82,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,22,0,0
+1618846027882,16,api/areas/village/32.17.09,200,OK,Thread Group 1-82,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618846027898,153,api/areas/hospital,200,OK,Thread Group 1-82,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846028052,18,api/country,200,OK,Thread Group 1-82,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618846027657,408,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-82,,true,,198548,3565,1,1,null,273,5,53
+1618846028657,176,api/login,200,OK,Thread Group 1-83,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,176,0,46
+1618846028833,21,api/areas/district-city,200,OK,Thread Group 1-83,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,21,0,0
+1618846028855,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-83,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846028872,15,api/areas/village/32.17.09,200,OK,Thread Group 1-83,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846028887,553,api/areas/hospital,200,OK,Thread Group 1-83,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,22,0,0
+1618846029441,20,api/country,200,OK,Thread Group 1-83,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618846028657,801,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-83,,true,,198548,3565,1,1,null,269,3,46
+1618846029657,176,api/login,200,OK,Thread Group 1-84,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,176,0,44
+1618846029834,16,api/areas/district-city,200,OK,Thread Group 1-84,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618846029851,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-84,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618846029866,28,api/areas/village/32.17.09,200,OK,Thread Group 1-84,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618846029894,229,api/areas/hospital,200,OK,Thread Group 1-84,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,26,0,0
+1618846030124,20,api/country,200,OK,Thread Group 1-84,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618846029656,484,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-84,,true,,198548,3565,1,1,null,278,4,44
+1618846030674,354,api/login,200,OK,Thread Group 1-85,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,353,0,55
+1618846031028,17,api/areas/district-city,200,OK,Thread Group 1-85,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618846031046,66,api/areas/sub-district/32.17,200,OK,Thread Group 1-85,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,66,0,0
+1618846031112,14,api/areas/village/32.17.09,200,OK,Thread Group 1-85,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618846031127,235,api/areas/hospital,200,OK,Thread Group 1-85,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846031363,24,api/country,200,OK,Thread Group 1-85,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618846030672,710,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-85,,true,,198548,3565,1,1,null,487,5,55
+1618846031673,130,api/login,200,OK,Thread Group 1-86,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,130,0,50
+1618846031804,18,api/areas/district-city,200,OK,Thread Group 1-86,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,18,0,0
+1618846031823,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-86,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846031839,13,api/areas/village/32.17.09,200,OK,Thread Group 1-86,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,13,0,0
+1618846031853,142,api/areas/hospital,200,OK,Thread Group 1-86,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,17,0,0
+1618846031995,19,api/country,200,OK,Thread Group 1-86,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618846031672,338,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-86,,true,,198548,3565,1,1,null,211,5,50
+1618846032657,149,api/login,200,OK,Thread Group 1-87,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,149,0,50
+1618846032807,13,api/areas/district-city,200,OK,Thread Group 1-87,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,13,0,0
+1618846032821,16,api/areas/sub-district/32.17,200,OK,Thread Group 1-87,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,16,0,0
+1618846032837,17,api/areas/village/32.17.09,200,OK,Thread Group 1-87,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,17,0,0
+1618846032854,149,api/areas/hospital,200,OK,Thread Group 1-87,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,30,0,0
+1618846033003,17,api/country,200,OK,Thread Group 1-87,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,16,0,0
+1618846032656,361,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-87,,true,,198548,3565,1,1,null,241,3,50
+1618846033657,173,api/login,200,OK,Thread Group 1-88,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,172,0,46
+1618846033830,15,api/areas/district-city,200,OK,Thread Group 1-88,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618846033846,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-88,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618846033864,16,api/areas/village/32.17.09,200,OK,Thread Group 1-88,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,16,0,0
+1618846033881,155,api/areas/hospital,200,OK,Thread Group 1-88,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618846034036,20,api/country,200,OK,Thread Group 1-88,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618846033656,396,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-88,,true,,198548,3565,1,1,null,258,4,46
+1618846034658,151,api/login,200,OK,Thread Group 1-89,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,151,0,39
+1618846034809,15,api/areas/district-city,200,OK,Thread Group 1-89,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618846034824,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-89,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618846034839,15,api/areas/village/32.17.09,200,OK,Thread Group 1-89,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846034854,150,api/areas/hospital,200,OK,Thread Group 1-89,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,26,0,0
+1618846035005,27,api/country,200,OK,Thread Group 1-89,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,15,0,0
+1618846034657,373,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-89,,true,,198548,3565,1,1,null,237,3,39
+1618846035657,186,api/login,200,OK,Thread Group 1-90,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,186,0,53
+1618846035844,14,api/areas/district-city,200,OK,Thread Group 1-90,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,14,0,0
+1618846035859,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-90,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618846035875,14,api/areas/village/32.17.09,200,OK,Thread Group 1-90,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618846035889,171,api/areas/hospital,200,OK,Thread Group 1-90,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,46,0,0
+1618846036061,16,api/country,200,OK,Thread Group 1-90,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,15,0,0
+1618846035656,416,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-90,,true,,198548,3565,1,1,null,290,5,53
+1618846036673,129,api/login,200,OK,Thread Group 1-91,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,129,0,49
+1618846036803,14,api/areas/district-city,200,OK,Thread Group 1-91,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,14,0,0
+1618846036818,22,api/areas/sub-district/32.17,200,OK,Thread Group 1-91,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,22,0,0
+1618846036840,15,api/areas/village/32.17.09,200,OK,Thread Group 1-91,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846036855,245,api/areas/hospital,200,OK,Thread Group 1-91,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846037101,22,api/country,200,OK,Thread Group 1-91,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,20,0,0
+1618846036673,447,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-91,,true,,198548,3565,1,1,null,220,3,49
+1618846037657,175,api/login,200,OK,Thread Group 1-92,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,175,0,49
+1618846037833,34,api/areas/district-city,200,OK,Thread Group 1-92,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,34,0,0
+1618846037867,14,api/areas/sub-district/32.17,200,OK,Thread Group 1-92,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,14,0,0
+1618846037882,14,api/areas/village/32.17.09,200,OK,Thread Group 1-92,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,14,0,0
+1618846037896,205,api/areas/hospital,200,OK,Thread Group 1-92,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846038101,25,api/country,200,OK,Thread Group 1-92,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,23,0,0
+1618846037656,467,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-92,,true,,198548,3565,1,1,null,280,4,49
+1618846038673,165,api/login,200,OK,Thread Group 1-93,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,165,0,40
+1618846038838,15,api/areas/district-city,200,OK,Thread Group 1-93,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618846038853,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-93,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618846038869,28,api/areas/village/32.17.09,200,OK,Thread Group 1-93,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618846038897,147,api/areas/hospital,200,OK,Thread Group 1-93,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,21,0,0
+1618846039045,17,api/country,200,OK,Thread Group 1-93,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,15,0,0
+1618846038672,387,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-93,,true,,198548,3565,1,1,null,259,3,40
+1618846039657,176,api/login,200,OK,Thread Group 1-94,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,176,0,40
+1618846039833,16,api/areas/district-city,200,OK,Thread Group 1-94,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,16,0,0
+1618846039850,15,api/areas/sub-district/32.17,200,OK,Thread Group 1-94,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,15,0,0
+1618846039865,15,api/areas/village/32.17.09,200,OK,Thread Group 1-94,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,15,0,0
+1618846039880,529,api/areas/hospital,200,OK,Thread Group 1-94,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,123,0,0
+1618846040409,19,api/country,200,OK,Thread Group 1-94,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,19,0,0
+1618846039656,770,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-94,,true,,198548,3565,1,1,null,364,3,40
+1618846040656,196,api/login,200,OK,Thread Group 1-95,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,196,0,43
+1618846040853,15,api/areas/district-city,200,OK,Thread Group 1-95,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,15,0,0
+1618846040869,39,api/areas/sub-district/32.17,200,OK,Thread Group 1-95,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,39,0,0
+1618846040909,31,api/areas/village/32.17.09,200,OK,Thread Group 1-95,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,31,0,0
+1618846040941,151,api/areas/hospital,200,OK,Thread Group 1-95,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,18,0,0
+1618846041092,17,api/country,200,OK,Thread Group 1-95,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,17,0,0
+1618846040656,449,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-95,,true,,198548,3565,1,1,null,316,5,43
+1618846041674,130,api/login,200,OK,Thread Group 1-96,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,130,0,40
+1618846041803,17,api/areas/district-city,200,OK,Thread Group 1-96,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618846041820,17,api/areas/sub-district/32.17,200,OK,Thread Group 1-96,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,17,0,0
+1618846041837,28,api/areas/village/32.17.09,200,OK,Thread Group 1-96,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,28,0,0
+1618846041865,146,api/areas/hospital,200,OK,Thread Group 1-96,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,20,0,0
+1618846042011,19,api/country,200,OK,Thread Group 1-96,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,18,0,0
+1618846041673,357,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-96,,true,,198548,3565,1,1,null,230,1,40
+1618846042656,179,api/login,200,OK,Thread Group 1-97,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,179,0,65
+1618846042836,32,api/areas/district-city,200,OK,Thread Group 1-97,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,32,0,0
+1618846042868,24,api/areas/sub-district/32.17,200,OK,Thread Group 1-97,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,24,0,0
+1618846042893,46,api/areas/village/32.17.09,200,OK,Thread Group 1-97,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,46,0,0
+1618846042939,356,api/areas/hospital,200,OK,Thread Group 1-97,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,34,0,0
+1618846043295,33,api/country,200,OK,Thread Group 1-97,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,33,0,0
+1618846042655,670,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-97,,true,,198548,3565,1,1,null,348,3,65
+1618846043671,267,api/login,200,OK,Thread Group 1-98,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,267,0,120
+1618846043938,141,api/areas/district-city,200,OK,Thread Group 1-98,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,141,0,0
+1618846044079,96,api/areas/sub-district/32.17,200,OK,Thread Group 1-98,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,96,0,0
+1618846044176,44,api/areas/village/32.17.09,200,OK,Thread Group 1-98,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,44,0,0
+1618846044221,767,api/areas/hospital,200,OK,Thread Group 1-98,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,34,0,0
+1618846044988,34,api/country,200,OK,Thread Group 1-98,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,34,0,0
+1618846043671,1349,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-98,,true,,198548,3565,2,2,null,616,3,120
+1618846044656,464,api/login,200,OK,Thread Group 1-99,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,464,0,319
+1618846045120,25,api/areas/district-city,200,OK,Thread Group 1-99,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,25,0,0
+1618846045146,22,api/areas/sub-district/32.17,200,OK,Thread Group 1-99,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,22,0,0
+1618846045169,20,api/areas/village/32.17.09,200,OK,Thread Group 1-99,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,19,0,0
+1618846045189,532,api/areas/hospital,200,OK,Thread Group 1-99,text,true,,183448,617,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,35,0,0
+1618846045722,30,api/country,200,OK,Thread Group 1-99,text,true,,8954,596,2,2,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,28,0,0
+1618846044655,1093,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-99,,true,,198548,3565,2,2,null,593,4,319
+1618846045672,235,api/login,200,OK,Thread Group 1-100,text,true,,1113,520,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/login,235,0,113
+1618846045908,17,api/areas/district-city,200,OK,Thread Group 1-100,text,true,,1807,608,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/district-city,17,0,0
+1618846045925,33,api/areas/sub-district/32.17,200,OK,Thread Group 1-100,text,true,,1938,613,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/sub-district/32.17,33,0,0
+1618846045958,27,api/areas/village/32.17.09,200,OK,Thread Group 1-100,text,true,,1288,611,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/village/32.17.09,27,0,0
+1618846045985,299,api/areas/hospital,200,OK,Thread Group 1-100,text,true,,183448,617,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/areas/hospital?rs_jabar=true,19,0,0
+1618846046284,37,api/country,200,OK,Thread Group 1-100,text,true,,8954,596,1,1,https://api.pelaporan.pikobar.jabarprov.go.id/api/country,37,0,0
+1618846045671,648,Pelaporan_Production,200,"Number of samples in transaction : 6, number of failing samples : 0",Thread Group 1-100,,true,,198548,3565,1,1,null,368,2,113
